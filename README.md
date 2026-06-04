@@ -134,6 +134,6 @@ I am currently turning my repositories into proper engineering case studies. Eac
 ## Contact
 
 - GitHub: github.com/Sufyan11104
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your professional email
-- Location: Dundee, Scotland
+- LinkedIn: https://www.linkedin.com/in/sufyan-elmansuri
+- Email: sufyanarabic@gmail.com
+- Location: Scotland
