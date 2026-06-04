@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Computer Science student at the University of St Andrews</strong><br/>
-  Full-stack developer focused on clean interfaces, practical systems, and real-world software products.
+  Full-stack developer building practical web, mobile, and database-driven software.
 </p>
 
 <p align="center">
@@ -21,105 +21,120 @@
 
 ## About
 
-I am a Computer Science student at the University of St Andrews, building full-stack web and mobile projects with a focus on usability, maintainability, and professional delivery.
+I am a Computer Science student at the University of St Andrews, based in Dundee, Scotland.
 
-My current work combines software engineering with real-world product thinking: community platforms, local business websites, database systems, mobile app concepts, and user-focused interfaces.
+I build software with a focus on clean interfaces, maintainable structure, and real users. My work includes student society platforms, local business websites, mobile app concepts, Java applications, and database systems.
 
-I care about building software that is clear, useful, accessible, and properly documented.
-
----
-
-## Currently building
-
-- STAMSA Platform — a community-facing website for the University of St Andrews Muslim Students’ Association, focused on events, accessibility, responsive design, and maintainable content.
-- La Baguette Dundee Website & Ordering System — a mobile-first website and ordering-system prototype for a real local sandwich shop, with structured menu data, SEO, and customer-focused ordering flows.
-- Quran Tutor App — a Flutter/Dart app concept connecting students with Quran tutors through tutor profiles, lesson flows, and scheduling logic.
-- Technical portfolio improvements — strengthening project READMEs, screenshots, live demos, testing, documentation, and deployment quality.
+I am especially interested in full-stack development, product-focused engineering, accessibility, and building software that is simple to use and easy to maintain.
 
 ---
 
-## Featured engineering work
+## Current focus
+
+- Building and improving a community-facing platform for the University of St Andrews Muslim Students’ Association.
+- Developing a mobile-first website and ordering-system prototype for La Baguette Dundee.
+- Designing a Flutter/Dart tutor app concept for connecting students with Quran tutors.
+- Strengthening my public GitHub portfolio with clearer documentation, screenshots, live demos, tests, and cleaner project structure.
+
+---
+
+## Selected projects
 
 ### STAMSA Platform
-A society platform designed to make events, announcements, and community information easier to access for students.
 
-Engineering focus: Next.js, TypeScript, Tailwind CSS, accessibility, responsive UI, reusable components, content structure.
+A student society platform for the University of St Andrews Muslim Students’ Association, designed to make events, announcements, and society information easier to access.
+
+Focus: Next.js, TypeScript, Tailwind CSS, responsive design, accessibility, reusable components, content structure.
 
 ### La Baguette Dundee
-A real local business website and planned ordering system for a sandwich shop in Dundee.
 
-Engineering focus: mobile-first design, structured menu data, SEO, LocalBusiness schema, customer journeys, performance, and clean UI.
+A website and ordering-system prototype for a real local sandwich shop in Dundee, focused on a better mobile experience and clearer customer journey.
+
+Focus: Next.js, TypeScript, Tailwind CSS, structured menu data, SEO, LocalBusiness schema, mobile-first design.
 
 ### Quran Tutor App
-A mobile app concept for connecting students with Quran tutors online or in person.
 
-Engineering focus: Flutter, Dart, user flows, tutor/student matching, scheduling, authentication planning, and scalable product structure.
+A Flutter/Dart mobile app concept for connecting students with Quran tutors online or in person.
+
+Focus: Flutter, Dart, tutor profiles, lesson flows, scheduling logic, authentication planning, product structure.
 
 ### Author Database System
-A Java and SQL project focused on relational database design and data operations.
 
-Engineering focus: Java, SQL, schema design, normalisation, queries, CRUD-style operations, and data modelling.
+A Java and SQL project focused on relational database design and structured data operations.
+
+Focus: Java, SQL, schema design, normalisation, queries, CRUD-style operations, data modelling.
 
 ### Java ELIZA-Style Chatbot
-A Java chatbot inspired by early conversational systems.
 
-Engineering focus: Java, object-oriented design, regular expressions, pattern matching, scripted responses, substitutions, and randomised reply selection.
+A Java chatbot inspired by early conversational systems, using rule-based text processing to simulate dialogue.
+
+Focus: Java, object-oriented design, regular expressions, pattern matching, scripted responses, substitutions, randomised replies.
 
 ---
 
 ## Technical stack
 
 ### Languages
-TypeScript
-JavaScript
-Python
-Java
-Dart
-SQL
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ### Frontend and mobile
-React
-Next.js
-Tailwind CSS
-Flutter
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
 
 ### Tools and workflow
-Git
-GitHub
-VS Code
-DBeaver
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
-## Engineering principles
+## How I approach engineering
 
-- Build software around real users, not just technical requirements.
-- Keep interfaces clean, responsive, and accessible.
-- Use clear project structure and readable code.
-- Document projects properly so others can understand, run, and evaluate them.
-- Prefer honest project status over exaggerated claims.
-- Improve continuously through refactoring, testing, deployment, and feedback.
+- I start with the user problem before choosing the technology.
+- I prefer clear structure over clever code.
+- I care about responsive design, accessibility, and readable interfaces.
+- I document projects so they can be understood, run, and reviewed properly.
+- I treat GitHub as a portfolio, not just a place to store code.
+- I am improving each project through better READMEs, screenshots, tests, deployment, and clearer architecture.
 
 ---
 
-## GitHub focus
+## GitHub priorities
 
-I am currently improving my GitHub into a proper engineering portfolio:
+I am currently turning my repositories into proper engineering case studies. Each serious project is being improved with:
 
-- Better repository names and descriptions
-- Strong READMEs for each serious project
-- Screenshots and live demos where possible
-- Cleaner commit history
-- More visible project structure
-- Documentation for architecture, setup, and future improvements
+- Clear repository names and descriptions
+- Screenshots and demo links
+- Setup instructions
+- Architecture notes
+- Testing or linting where appropriate
+- Honest project status
+- A clear explanation of my contribution
 
 ---
 
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sufyan11104&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufyan11104&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sufyan11104&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufyan11104&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
 ---
@@ -127,6 +142,6 @@ I am currently improving my GitHub into a proper engineering portfolio:
 ## Contact
 
 - GitHub: github.com/Sufyan11104
-- LinkedIn: [Add LinkedIn URL]
-- Email: [Add professional email]
+- LinkedIn: Add your LinkedIn URL
+- Email: Add your professional email
 - Location: Dundee, Scotland
