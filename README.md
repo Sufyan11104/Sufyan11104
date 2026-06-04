@@ -7,11 +7,15 @@
 
 <p align="center">
   <a href="mailto:sufyanarabic@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-sufyanarabic%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/sufyan-elmansuri">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sufyan%20Elmansuri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <code>Next.js</code> · <code>TypeScript</code> · <code>React</code> · <code>Tailwind CSS</code> · <code>Flutter</code> · <code>Java</code> · <code>Python</code> · <code>SQL</code>
 </p>
 
 ---
