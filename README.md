@@ -14,10 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <code>Next.js</code> · <code>TypeScript</code> · <code>React</code> · <code>Tailwind CSS</code> · <code>Flutter</code> · <code>Java</code> · <code>Python</code> · <code>SQL</code>
-</p>
-
 ---
 
 ## About
