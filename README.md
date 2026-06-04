@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Computer Science student at the University of St Andrews</strong><br/>
-  Full-stack developer building practical web, mobile, and database-driven software.
+  Full-stack developer building practical web, mobile and database-driven software.
 </p>
 
 <p align="center">
@@ -23,18 +23,16 @@
 
 I am a Computer Science student at the University of St Andrews, based in Dundee, Scotland.
 
-I build software with a focus on clean interfaces, maintainable structure, and real users. My work includes student society platforms, local business websites, mobile app concepts, Java applications, and database systems.
+I build software with a focus on clean interfaces, maintainable structure and real users. My work includes student society platforms, local business websites, mobile app concepts, Java applications and database systems.
 
-I am especially interested in full-stack development, product-focused engineering, accessibility, and building software that is simple to use and easy to maintain.
+I am especially interested in full-stack development, product-focused engineering, accessibility and building software that is simple to use and easy to maintain.
 
 ---
 
 ## Current focus
 
-- Building and improving a community-facing platform for the University of St Andrews Muslim Students’ Association.
-- Developing a mobile-first website and ordering-system prototype for La Baguette Dundee.
-- Designing a Flutter/Dart tutor app concept for connecting students with Quran tutors.
-- Strengthening my public GitHub portfolio with clearer documentation, screenshots, live demos, tests, and cleaner project structure.
+- Developing a mobile-first website and ordering-system prototype for restaurants in scotland.
+- Building and improving a community-facing platform for one of the University of St Andrews Students’ Association.
 
 ---
 
@@ -42,21 +40,16 @@ I am especially interested in full-stack development, product-focused engineerin
 
 ### STAMSA Platform
 
-A student society platform for the University of St Andrews Muslim Students’ Association, designed to make events, announcements, and society information easier to access.
+A student society platform for the University of St Andrews Muslim Students’ Association, designed to make events, announcements and society information easier to access.
 
 Focus: Next.js, TypeScript, Tailwind CSS, responsive design, accessibility, reusable components, content structure.
 
-### La Baguette Dundee
+### Restaurant ordering Website
 
-A website and ordering-system prototype for a real local sandwich shop in Dundee, focused on a better mobile experience and clearer customer journey.
+A website and ordering-system prototype for a real local sandwich shop in Scotland, focused on a better mobile experience and clearer customer journey.
 
 Focus: Next.js, TypeScript, Tailwind CSS, structured menu data, SEO, LocalBusiness schema, mobile-first design.
 
-### Quran Tutor App
-
-A Flutter/Dart mobile app concept for connecting students with Quran tutors online or in person.
-
-Focus: Flutter, Dart, tutor profiles, lesson flows, scheduling logic, authentication planning, product structure.
 
 ### Author Database System
 
@@ -109,10 +102,10 @@ Focus: Java, object-oriented design, regular expressions, pattern matching, scri
 
 - I start with the user problem before choosing the technology.
 - I prefer clear structure over clever code.
-- I care about responsive design, accessibility, and readable interfaces.
-- I document projects so they can be understood, run, and reviewed properly.
+- I care about responsive design, accessibility and readable interfaces.
+- I document projects so they can be understood, run and reviewed properly.
 - I treat GitHub as a portfolio, not just a place to store code.
-- I am improving each project through better READMEs, screenshots, tests, deployment, and clearer architecture.
+- I am improving each project through better READMEs, screenshots, tests, deployment and clearer architecture.
 
 ---
 
