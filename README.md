@@ -128,14 +128,6 @@ I am currently turning my repositories into proper engineering case studies. Eac
 - Honest project status
 - A clear explanation of my contribution
 
----
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sufyan11104&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufyan11104&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
 
 ---
 
